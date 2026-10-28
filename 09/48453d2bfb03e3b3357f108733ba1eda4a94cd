@@ -1,0 +1,14 @@
+.golangci.yml
+  h_78a442cba0b3e6 29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0948453d2bfb03e3b3357f108733ba1eda4a94cd",
+  "prompts": {},
+  "humans": {
+    "h_78a442cba0b3e6": {
+      "author": "Allen Sanabria <asanabria6910@gmail.com>"
+    }
+  }
+}
